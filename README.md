@@ -13,7 +13,7 @@
 
 | 주차      | 내용        | 링크               |
 |-----------|-------------|--------------------|
-| week1     | 1~3장       | [velog link]([https://velog.io/](https://velog.io/@wltjs1027/파이토치딥러닝마스터3장-텐서-구조체)) |
+| week1     | 1~3장       | [velog link](https://velog.io/@wltjs1027/파이토치딥러닝마스터3장-텐서-구조체) |
 | week2     | 4장         | [velog link]() |
 | week3     | 5장~6장2    | [velog link]() |
 | week4     | 6장3~8장4   | [velog link]() |
